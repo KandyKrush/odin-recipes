@@ -1,1 +1,2 @@
 # odin-recipes
+# This will be a recipe page which will contain links to some recipes. When this will be completed, I will have demonstrated my understanding of basic HTML commands and syntax, be able to insert images and links, and build a functional website
